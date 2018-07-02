@@ -1,6 +1,6 @@
 {
   "name": "@infamoustrey/gatekeeper",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A Request Middleware for Express",
   "main": "src/gatekeeper.js",
   "scripts": {
