@@ -1,5 +1,5 @@
 {
-  "name": "gatekeeper",
+  "name": "@infamoustrey/gatekeeper",
   "version": "0.0.1",
   "description": "A Request Middleware for Express",
   "main": "src/gatekeeper.js",
