@@ -1,3 +1,5 @@
+[![npm version](https://badge.fury.io/js/%40infamoustrey%2Fgatekeeper.svg)](https://badge.fury.io/js/%40infamoustrey%2Fgatekeeper)
+
 # gatekeeper
 
 > A request Middleware for Express
