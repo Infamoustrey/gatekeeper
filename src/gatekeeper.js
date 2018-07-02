@@ -24,3 +24,5 @@ class GateKeeper {
     }
 
 }
+
+module.exports = new GateKeeper();
